@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gauss", "Gauss\Gauss.csproj", "{7049995D-6E62-4C9B-B333-6F2493ED42A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartExample", "ChartExample\ChartExample.csproj", "{944A016C-B9EA-46C6-8FBA-C306DD35F482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7049995D-6E62-4C9B-B333-6F2493ED42A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7049995D-6E62-4C9B-B333-6F2493ED42A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7049995D-6E62-4C9B-B333-6F2493ED42A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7049995D-6E62-4C9B-B333-6F2493ED42A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944A016C-B9EA-46C6-8FBA-C306DD35F482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944A016C-B9EA-46C6-8FBA-C306DD35F482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944A016C-B9EA-46C6-8FBA-C306DD35F482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944A016C-B9EA-46C6-8FBA-C306DD35F482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3036949-824C-4701-BA23-F4398EFEF5FA}
+	EndGlobalSection
+EndGlobal
